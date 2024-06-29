@@ -16,7 +16,7 @@ public abstract class Piece {
 
     public abstract boolean[][] possibleMoves(); //matriz de True e False, onde True inidica uma casa que se pode ir
 
-    public boolean possibleMoves(Position position){
+    public boolean possibleMove(Position position){
         return possibleMoves()[position.getRow()][position.getColumn()]; //Rook method
     }
 
@@ -31,5 +31,6 @@ public abstract class Piece {
         }
         return false;
     }
+    
 
 }
