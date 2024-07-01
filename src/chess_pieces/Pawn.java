@@ -67,7 +67,7 @@ public Pawn(Board board, Color color){
                 mat[p.getRow()][p.getColumn()] = true;
             }
         }
-        return null;
+        return mat;
     }
     
     
