@@ -17,4 +17,4 @@ Gerenciamento de Projetos em Java: Configuração de um projeto no Visual Studio
 
 ### Telas:
 
-![Alt text](/screenshots/startGame.jpg?raw=true "Start")
+![Alt text](/screenshot/startGame.jpg?raw=true "Start")
